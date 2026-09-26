@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: tavanir-banner-generator
+    env: docker
+    plan: free
+    region: frankfurt  # می‌توانید به ohio یا singapore تغییر دهید
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # متغیرهای GapGPT از پنل Render به صورت دستی تنظیم می‌شوند
+      - key: GAPGPT_API_KEY
+        sync: false
+      - key: GAPGPT_BASE_URL
+        value: https://api.gapgpt.app/v1
+      - key: GAPGPT_MODEL
+        value: gapgpt/qwen-image-2.1
