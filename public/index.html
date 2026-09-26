@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>سیستم تولید بنر — شرکت مادر تخصصی توانیر</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="prompts.js"></script>
+    <script src="prompt-loader.js"></script>
+</head>
+<body>
+    <!-- ============ VIDEO BACKGROUND ============ -->
+    <div class="bg-video-wrap">
+        <video class="bg-video" autoplay muted loop playsinline preload="auto" poster="/assets/bg-poster.jpg">
+            <source src="/assets/bg-loop.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class="bg-video-overlay"></div>
+
+    <!-- ============ PARTICLES ============ -->
+    <div class="particles">
+        <div class="particle"></div>
+        <div class="particle gold"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+        <div class="particle gold"></div>
+        <div class="particle"></div>
+        <div class="particle"></div>
+    </div>
+
+    <!-- ============ HEADER ============ -->
+    <header>
+        <div class="header-inner">
+            <div class="logo-wrap">
+                <div class="logo-mark">⚡</div>
+                <div class="logo-text">
+                    <span class="title">سیستم تولید بنر و موشن</span>
+                    <span class="tagline">مجامع عمومی و مالی توانیر</span>
+                </div>
+            </div>
+
+            <nav class="header-nav">
+                <button class="nav-item active" data-hash="#/">
+                    خانه
+                </button>
+                <button class="nav-item" data-hash="#/banners">
+                    قالب‌ها
+                </button>
+                <button class="nav-item" data-hash="#/ai">
+                    هوش مصنوعی
+                </button>
+            </nav>
+
+            <div class="header-status">
+                <span class="status-dot"></span>
+                <span>آنلاین</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- ============ MAIN ============ -->
+    <main>
+        <!-- صفحه اصلی -->
+        <section id="home-section">
+            <div class="home-hero">
+                <div class="hero-tag">
+                    <span class="pulse"></span>
+                   روشنایی پایدار ، آینده ای مطمئن
+                </div>
+                <h1>دفتر مجامع عمومی و نظارت مالی شرکت مادرتخصصی توانیر</h1>
+                <p>ابزار مهندسی تولید بنر خبری با قالب‌های آماده و هوش مصنوعی تصویری</p>
+            </div>
+
+            <div class="home-grid">
+                <div class="home-card reveal" onclick="window.location.hash = '#/banners'">
+                    <div class="meter"><span></span><span></span><span></span><span></span></div>
+                    <div class="home-card-icon">🖼️</div>
+                    <h3>بنرهای خبری</h3>
+                    <p>تولید تصاویر از روی قالب‌های آماده</p>
+                </div>
+                <div class="home-card reveal" onclick="window.location.hash = '#/ai'">
+                    <div class="meter"><span></span><span></span><span></span><span></span></div>
+                    <div class="home-card-icon">🎨</div>
+                    <h3>تولید با هوش مصنوعی</h3>
+                    <p>ساخت پس‌زمینه جدید از روی توضیح</p>
+                </div>
+                <div class="home-card disabled reveal" onclick="showToast('به زودی فعال می‌شود', 'info')">
+                    <div class="home-card-icon">🎬</div>
+                    <h3>موشن و ویدیو</h3>
+                    <p>تولید ویدیوهای کوتاه ۵ ثانیه‌ای</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- گالری -->
+        <section id="gallery-section" class="hidden">
+            <div class="section-head">
+                <div class="section-title">
+                    <h2>انتخاب قالب</h2>
+                    <span class="badge">Gallery</span>
+                </div>
+                <a href="#/" class="btn-secondary">← بازگشت</a>
+            </div>
+            <div id="templates-grid" class="grid-container"></div>
+        </section>
+
+        <!-- ویرایشگر قدیم -->
+        <section id="editor-section" class="hidden">
+            <div class="section-head">
+                <div class="section-title">
+                    <h2>ویرایش محتوا</h2>
+                    <span class="badge">Editor</span>
+                </div>
+                <a href="#/banners" class="btn-secondary">← بازگشت</a>
+            </div>
+
+            <div class="editor-layout">
+                <div class="form-container">
+                    <form id="dynamic-form"></form>
+                    <button id="generate-btn" class="btn-primary" style="margin-top: 20px;">
+                        🚀 دانلود تصویر نهایی
+                    </button>
+                    <div id="loading-spinner" class="spinner hidden"></div>
+                </div>
+
+                <div class="preview-container">
+                    <div class="preview-header">
+                        <h3>پیش‌نمایش زنده</h3>
+                        <button id="reset-positions-btn" class="btn-secondary">🔄 بازنشانی</button>
+                    </div>
+                    <div class="preview-frame-wrapper">
+                        <iframe id="preview-frame" class="preview-frame"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- AI -->
+        <section id="ai-section" class="hidden">
+            <div class="section-head">
+                <div class="section-title">
+                    <h2>تولید با هوش مصنوعی</h2>
+                    <span class="badge">AI</span>
+                </div>
+                <a href="#/" class="btn-secondary">← بازگشت</a>
+            </div>
+
+            <div class="ai-layout">
+                <div class="ai-form">
+                    <div class="upload-box">
+                        <label>📁 بارگذاری فایل پرامپت‌ها</label>
+                        <input type="file" id="prompt-file" accept=".txt,.json,.md" onchange="loadPromptFile(event)">
+                        <button type="button" class="btn-secondary" style="width: 100%; justify-content: center; margin-top: 10px;" onclick="clearCustomPromptsUI()">
+                            🗑️ حذف پرامپت‌های سفارشی
+                        </button>
+                        <small id="prompt-file-info" class="upload-info"></small>
+                    </div>
+
+                    <div class="form-group">
+                        <label>دسته پرامپت</label>
+                        <select id="ai-category" onchange="loadPromptsForCategory()"></select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>پرامپت آماده</label>
+                        <select id="ai-prompt-list" onchange="selectPrompt()">
+                            <option value="">— پرامپت دلخواه —</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label>متن پرامپت</label>
+                        <textarea id="ai-prompt" rows="8" placeholder="A dramatic photorealistic banner background..."></textarea>
+                    </div>
+
+                    <div class="form-group">
+                        <label>اندازه تصویر</label>
+                        <select id="ai-size">
+                            <option value="1024x1024" selected>مربعی ۱۰۲۴ × ۱۰۲۴</option>
+                            <option value="1792x1024">افقی ۱۷۹۲ × ۱۰۲۴</option>
+                            <option value="1024x1792">عمودی ۱۰۲۴ × ۱۷۹۲</option>
+                        </select>
+                    </div>
+
+                    <button id="ai-generate-btn" class="btn-primary">🎨 تولید تصویر</button>
+                    <div id="ai-loading" class="spinner hidden"></div>
+
+                    <button id="ai-use-btn" class="btn-secondary hidden" style="width: 100%; justify-content: center; margin-top: 14px;">
+                        ✅ استفاده به عنوان قالب
+                    </button>
+                </div>
+
+                <div class="ai-preview">
+                    <h3>پیش‌نمایش</h3>
+                    <div id="ai-preview-box">
+                        <p class="text-muted">تصویر تولیدشده اینجا نمایش داده می‌شود</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div id="toast-container"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>

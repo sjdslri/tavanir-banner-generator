@@ -1,0 +1,229 @@
+۱۰۰ پرامپت ساخت بنر برای هوش مصنوعی تصویر
+ویژه‌ی قالب‌های بنر شرکت توزیع نیروی برق — سبک مهندسی و رسمی
+راهنمای استفاده
+این فایل ۱۰۰ پرامپت آماده برای هوش مصنوعی‌های تصویرساز (مثل Midjourney، DALL·E، Leonardo.ai یا Stable Diffusion) است. هرکدوم رو جدا کپی کنید و در ابزار موردنظرتون بسازید؛ هر پرامپت رو می‌تونید چند بار (۲ تا ۴ بار) اجرا کنید تا بهترین نسخه‌ش رو انتخاب کنید، چون خروجی هوش مصنوعی هر بار کمی فرق می‌کنه.
+پرامپت‌ها عمداً به زبان انگلیسی نوشته شدن، چون بیشتر این ابزارها روی متن انگلیسی کیفیت بهتری می‌دن.
+در همه‌ی پرامپت‌ها عبارت no text / no letters / no typography گذاشته شده تا هوش مصنوعی هیچ نوشته‌ای داخل تصویر نسازه (چون معمولاً نوشته‌ها رو غلط و بی‌معنی تولید می‌کنه) — متن واقعی (عنوان، تاریخ، آدرس و...) رو بعداً خودِ سایت به‌صورت دیجیتال روی همین بک‌گراند می‌ذاره.
+اگه ابزارتون از پارامتر نسبت تصویر پشتیبانی می‌کنه (مثلاً در Midjourney)، در انتهای هر پرامپت عبارت ‎--ar 16:9‎ رو اضافه کنید تا خروجی افقی و مناسب صفحه‌نمایش باشه.
+از هر دسته، هرچند تا که پسندیدید (لازم نیست همه‌ی ۱۰۰ تا رو امتحان کنید) رو تولید کنید، بهترین‌هاشون رو انتخاب کنید و همون فایل تصویری رو برام بفرستید — من به‌عنوان بک‌گراند واقعی همون قالب توی سایت جاش می‌دم و فیلدهای متنی (لوگو، تاریخ، خبر و آدرس) رو روش تنظیم می‌کنم.
+فهرست دسته‌ها
+1. حاشیه‌ی طلایی رسمی و اسلیمی ایرانی
+2. مهندسی و نقشه‌ی فنی (بلوپرینت)
+3. برج انتقال نیرو و خطوط برق
+4. انرژی و الکتریسیته‌ی انتزاعی
+5. شرکتی مدرن با بافت تکنولوژی
+6. سند و گواهی رسمی
+7. هشدار و فوریت
+8. ترکیب معماری ایرانی و مدار الکترونیکی
+9. هندسی تخت و پرکار (رنگ تخت، الگوی متراکم)
+10. شهر شب و شبکه‌ی برق درخشان
+دسته‌ی 1: حاشیه‌ی طلایی رسمی و اسلیمی ایرانی
+1.1 — قاب طلایی سرمه‌ای کلاسیک
+An elegant formal banner background for a government utility company, deep navy blue field bordered by an intricate gold Persian arabesque (eslimi) frame with fine filigree corner medallions, ornate geometric Islamic patterns woven along the edges, warm golden light glow, wide 16:9 landscape banner composition, the central area kept smooth and uncluttered for overlaying text later, highly detailed, elegant, formal, engineering-company aesthetic, no text, no letters, no typography, no watermark.
+1.2 — قاب زمردی با حاشیه طلا
+A luxurious formal announcement banner, deep emerald green background with an ornate gold Persian floral arabesque border, intricate filigree corner ornaments, fine engraved geometric line-work along the frame edges, soft golden glow, wide 16:9 banner composition, a clear open panel in the center-bottom for later text placement, richly detailed yet dignified, formal engineering-institution mood, no text, no letters, no typography.
+1.3 — قاب سرخابی تیره با طلاکاری
+A dignified formal banner background, deep maroon and burgundy field framed by intricate gold Persian ornamental border with fine arabesque scrollwork, detailed corner rosettes, subtle embossed texture, wide 16:9 landscape composition, top third of the image left calm and open for a title, elaborate yet formal government-utility aesthetic, no text, no letters, no typography.
+1.4 — قاب مشکی و طلای مدرن‌تر
+A refined formal banner, matte black background with a sleek modern gold Persian geometric border pattern, fine linear arabesque motifs, subtle metallic sheen, minimal glow accents, wide 16:9 composition, a clean horizontal band across the middle kept free of ornament for text overlay, elegant and high-end, formal engineering-company aesthetic, no text, no letters, no typography.
+1.5 — مدالیون مرکزی با حاشیه اسلیمی
+A formal ceremonial banner background, deep indigo field with an ornate gold arabesque border and a large detailed empty circular medallion frame in the center reserved for a logo, intricate Persian geometric corner patterns, fine gold filigree, wide 16:9 landscape composition, elegant and richly detailed, formal utility-company mood, no text, no letters, no typography.
+1.6 — قاب دوتایی طلا و فیروزه‌ای
+An elegant formal banner background combining deep teal and gold, ornate Persian arabesque border with turquoise-and-gold tilework motifs along the edges, fine geometric corner medallions, warm ambient glow, wide 16:9 landscape banner, a soft uncluttered vertical strip on one side reserved for text, richly detailed, formal and dignified, no text, no letters, no typography.
+1.7 — حاشیه اسلیمی با الگوی مشبک ظریف
+A formal government-style banner background, warm cream and gold color palette, delicate lattice-like Persian arabesque border with intricate lace-fine linework, subtle embossed paper texture in the center, wide 16:9 landscape composition, the central field left calm for text overlay, elegant, refined, formal engineering-institution aesthetic, no text, no letters, no typography.
+1.8 — قاب طلایی با پرتوهای نور
+A majestic formal banner background, deep royal blue field with an ornate gold Persian arabesque frame, soft radial light rays emanating from the top center behind the border, fine detailed corner filigree, wide 16:9 landscape composition, a calm open area at the bottom third for text placement, richly detailed and dignified, formal utility-company mood, no text, no letters, no typography.
+1.9 — قاب طلایی با بافت پارچه‌ای
+An opulent formal banner background, dark plum and gold, ornate Persian arabesque border resembling fine embroidered fabric texture, intricate thread-like gold patterns along the edges, soft fabric sheen, wide 16:9 landscape composition, a smooth uncluttered central panel reserved for text, elegant, richly detailed, formal engineering-company aesthetic, no text, no letters, no typography.
+1.10 — قاب اسلیمی مینیمال‌تر با فضای بیشتر برای متن
+A refined formal banner background, deep charcoal navy field with a slender but highly detailed gold Persian arabesque border, fine engraved corner ornaments, subtle golden particle glow along the frame, wide 16:9 landscape composition, a generous open interior area left calm for multiple lines of text, elegant, dignified, formal utility-company aesthetic, no text, no letters, no typography.
+دسته‌ی 2: مهندسی و نقشه‌ی فنی (بلوپرینت)
+2.1 — نقشه‌ی فنی کلاسیک آبی
+A detailed technical blueprint-style banner background, deep cyan-blue field covered in fine white engineering grid lines, schematic diagrams of an electrical substation and transmission towers etched in thin white linework, subtle cross-hatching and dimension markings, wide 16:9 landscape composition, a clear open rectangular panel in the center kept free of linework for text overlay, highly detailed, precise, professional engineering aesthetic, no text, no letters, no numbers, no typography.
+2.2 — طرح مدار الکترونیکی درخشان
+A rich technical banner background, dark navy field densely covered with glowing cyan circuit-board traces and connection nodes, fine electronic schematic pathways branching in intricate detail, soft blue glow at circuit junctions, wide 16:9 landscape composition, a calm dark uncluttered strip along the bottom for text placement, highly detailed, futuristic yet formal engineering mood, no text, no letters, no typography.
+2.3 — نقشه‌ی ایزومتریک پست برق
+A detailed isometric technical illustration banner background, muted blue-grey palette, an isometric line-art diagram of an electrical substation with transformers, towers, and cabling rendered in fine white and cyan linework on a dark background, wide 16:9 landscape composition, an open uncluttered area at the top reserved for a title, precise, richly detailed, professional engineering aesthetic, no text, no letters, no typography.
+2.4 — کاغذ میلی‌متری با طرح شبکه‌ی برق
+A technical banner background resembling fine graph paper, pale blue-white field with a delicate millimeter grid, overlaid with thin schematic outlines of power lines and pylons in navy ink, subtle hand-drafted engineering-drawing feel, wide 16:9 landscape composition, a clean open panel in the center-right kept free for text, detailed yet clean, formal engineering aesthetic, no text, no letters, no typography.
+2.5 — مدار پیچیده با گره‌های نورانی طلایی
+A dense technical banner background, charcoal-black field filled with intricate golden circuit-trace patterns and glowing amber connection nodes, layered schematic complexity resembling a printed circuit board, wide 16:9 landscape composition, an open dark rectangular zone in the lower third reserved for text overlay, richly detailed, formal high-tech engineering mood, no text, no letters, no typography.
+2.6 — نقشه‌ی فنی با لایه‌های شفاف
+A layered technical blueprint banner background, deep indigo field with multiple semi-transparent schematic layers of grid lines, transformer symbols, and transmission diagrams overlapping subtly, soft cyan glow accents, wide 16:9 landscape composition, a calm uncluttered vertical band on the left for text, highly detailed, precise, professional engineering aesthetic, no text, no letters, no typography.
+2.7 — طرح مدار با بافت فلزی
+A technical banner background with a brushed dark-metal texture, fine engraved circuit-diagram linework in silver and electric blue across the surface, subtle industrial sheen, wide 16:9 landscape composition, a smooth uncluttered panel at the top-center reserved for a logo and title, richly detailed, formal industrial-engineering aesthetic, no text, no letters, no typography.
+2.8 — نقشه‌ی شبکه‌ی سراسری برق
+A wide technical banner background depicting a stylized national power-grid network map, dark navy field with glowing golden node points connected by fine curved transmission lines across the composition, subtle geographic contour hints, wide 16:9 landscape composition, an open dark area in the center kept clear for text overlay, richly detailed, formal engineering-institution mood, no text, no letters, no typography.
+2.9 — صفحه‌ی طراحی مهندسی با ابزار فنی
+A technical banner background styled as a drafting-table view from above, dark blue-grey surface with fine white technical drawing lines, compass and ruler silhouette motifs faintly etched in the corners, wide 16:9 landscape composition, a large clean uncluttered central area reserved for text, detailed, precise, formal engineering aesthetic, no text, no letters, no typography.
+2.10 — مدار سه‌بعدی با عمق نوری
+A dramatic technical banner background, deep black field with a three-dimensional glowing circuit structure receding into depth, layers of fine blue and amber light trails forming a complex electronic pathway, wide 16:9 landscape composition, a calm dark uncluttered strip along one edge reserved for text, richly detailed, futuristic formal engineering mood, no text, no letters, no typography.
+دسته‌ی 3: برج انتقال نیرو و خطوط برق
+3.1 — برج‌های انتقال نیرو در غروب دراماتیک
+A dramatic photorealistic banner background, silhouettes of tall electrical transmission towers and power lines stretching across a vivid orange-purple sunset sky, fine cable details visible against the glowing horizon, wide 16:9 landscape composition, the upper third of the sky left calm and gradient-smooth for text overlay, richly detailed, cinematic, formal utility-company mood, no text, no letters, no typography.
+3.2 — خطوط فشار قوی زیر آسمان طوفانی
+A powerful photorealistic banner background, high-voltage transmission towers under a dramatic stormy dark blue sky with faint lightning glow in the distance, rain-streaked atmosphere, fine cable and insulator details, wide 16:9 landscape composition, a darker uncluttered band across the bottom reserved for text, richly detailed, dramatic yet professional engineering mood, no text, no letters, no typography.
+3.3 — نمای هوایی شبکه‌ی برق‌رسانی
+An aerial photorealistic banner background, a vast network of transmission towers and power lines viewed from above stretching toward the horizon across a golden late-afternoon landscape, fine geometric line patterns of the grid, wide 16:9 landscape composition, a soft hazy open area near the top for text placement, richly detailed, formal utility-engineering aesthetic, no text, no letters, no typography.
+3.4 — برج انتقال نیرو با نور آبی مه‌آلود
+An atmospheric photorealistic banner background, a row of transmission towers emerging from soft blue morning fog, delicate glowing dew-light along the cables, cool moody color palette, wide 16:9 landscape composition, a calm uncluttered foreground area at the bottom reserved for text, richly detailed, elegant, formal engineering mood, no text, no letters, no typography.
+3.5 — پست فوق توزیع با ترانسفورماتور
+A detailed photorealistic banner background, an electrical substation with large transformers, insulators, and steel lattice structures under a clear twilight sky with warm amber lighting accents, wide 16:9 landscape composition, an open uncluttered panel on one side reserved for text, richly detailed, professional industrial-engineering aesthetic, no text, no letters, no typography.
+3.6 — خط انتقال نیرو با جرقه‌های نور طلایی
+A dynamic photorealistic banner background, high-voltage cables with subtle glowing golden energy sparks traveling along the lines against a deep midnight-blue sky, dramatic long-exposure light-trail effect, wide 16:9 landscape composition, a dark calm uncluttered area in the center for text overlay, richly detailed, cinematic, formal utility-company mood, no text, no letters, no typography.
+3.7 — برج‌های برق در مه صبحگاهی کوهستانی
+A scenic photorealistic banner background, transmission towers marching across misty mountain foothills at dawn, soft pastel pink and blue sky gradient, fine atmospheric depth, wide 16:9 landscape composition, a soft gradient sky area near the top left calm for text, richly detailed, elegant, formal engineering-utility mood, no text, no letters, no typography.
+3.8 — نمای نزدیک ایزوله‌ها و کابل‌ها با نور طلایی غروب
+A richly detailed photorealistic close-up banner background, glass and ceramic insulator chains and thick power cables backlit by warm golden sunset light, fine texture and reflections, wide 16:9 landscape composition, a soft blurred bokeh area on one side reserved for text, elegant, professional engineering aesthetic, no text, no letters, no typography.
+3.9 — برج‌های برق کنار جاده در شب با چراغ‌های شهر
+A moody photorealistic banner background, transmission towers silhouetted against a deep blue night sky with distant glowing city lights on the horizon, fine star details above, wide 16:9 landscape composition, a dark calm uncluttered upper band reserved for text, richly detailed, dramatic, formal utility-company mood, no text, no letters, no typography.
+3.10 — نمای پانوراما از دشت با ردیف برج‌های انتقال نیرو
+A sweeping panoramic photorealistic banner background, an endless row of transmission towers crossing a vast golden plain under a dramatic layered cloud sky, fine atmospheric perspective, wide 16:9 landscape composition, a large open sky area kept smooth for text overlay, richly detailed, cinematic, formal engineering-utility mood, no text, no letters, no typography.
+دسته‌ی 4: انرژی و الکتریسیته‌ی انتزاعی
+4.1 — رعد و برق انتزاعی طلایی-آبی
+A dramatic abstract banner background, deep black field with intricate branching golden and electric-blue lightning-bolt fractal patterns radiating from one corner, fine glowing energy tendrils, wide 16:9 landscape composition, a calm dark uncluttered central panel reserved for text, richly detailed, dynamic yet formal engineering-energy aesthetic, no text, no letters, no typography.
+4.2 — کره‌ی انرژی درخشان مرکزی
+A striking abstract banner background, a glowing spherical core of blue-white energy at one side radiating fine golden light filaments outward across a dark navy field, subtle particle glow, wide 16:9 landscape composition, an open uncluttered dark area on the opposite side reserved for text, richly detailed, elegant, formal energy-company aesthetic, no text, no letters, no typography.
+4.3 — جریان‌های نور پلاسمایی موازی
+A dynamic abstract banner background, parallel flowing ribbons of glowing cyan and gold plasma-like light streaking horizontally across a deep charcoal field, fine particle trails, wide 16:9 landscape composition, a calm uncluttered horizontal band in the middle reserved for text, richly detailed, formal high-tech energy aesthetic, no text, no letters, no typography.
+4.4 — امواج انرژی هم‌مرکز طلایی
+An elegant abstract banner background, concentric glowing golden energy rings radiating outward from the upper corner across a deep navy field, fine light particle dust, wide 16:9 landscape composition, an open dark uncluttered area in the lower two-thirds reserved for text, richly detailed, dignified, formal utility-company mood, no text, no letters, no typography.
+4.5 — شبکه‌ی نورانی گره‌های انرژی
+A rich abstract banner background, a fine interconnected network of glowing golden nodes and thin light-line connections spread across a deep blue-black field, subtle depth and glow, wide 16:9 landscape composition, a calm uncluttered panel at the bottom reserved for text, detailed, formal engineering-energy aesthetic, no text, no letters, no typography.
+4.6 — انفجار نور طلایی از گوشه‌ی قاب
+A dramatic abstract banner background, a burst of fine radiating golden light rays and small lightning-like fractures emanating from the top corner across a deep midnight-blue field, wide 16:9 landscape composition, an open smooth dark area covering most of the lower frame reserved for text, richly detailed, formal energetic aesthetic, no text, no letters, no typography.
+4.7 — جریان الکتریکی آبی روی سطح تیره
+A textured abstract banner background, fine branching electric-blue current patterns crawling across a matte black surface like frozen lightning, subtle metallic sheen, wide 16:9 landscape composition, a calm uncluttered vertical strip on one side reserved for text, richly detailed, formal high-voltage engineering aesthetic, no text, no letters, no typography.
+4.8 — ذرات نور طلایی معلق در فضای تیره
+An elegant abstract banner background, fine glowing golden particles and soft light bokeh floating across a deep navy-black gradient field, subtle depth of field, wide 16:9 landscape composition, a large calm uncluttered central area reserved for text, richly detailed, dignified, formal utility-company mood, no text, no letters, no typography.
+4.9 — امواج انرژی سینوسی درخشان
+A technical-feeling abstract banner background, fine glowing golden and cyan sine-wave energy lines flowing horizontally in layered depth across a dark field, subtle oscilloscope-like rhythm, wide 16:9 landscape composition, a calm uncluttered band across the top reserved for text, richly detailed, formal engineering-energy aesthetic, no text, no letters, no typography.
+4.10 — هاله‌ی نور طلایی پشت قاب تیره
+A refined abstract banner background, a soft radial golden light halo glowing behind a deep charcoal-navy field, fine subtle light-ray texture, wide 16:9 landscape composition, a large smooth uncluttered central area reserved for multiple lines of text, richly detailed, elegant, formal utility-company mood, no text, no letters, no typography.
+دسته‌ی 5: شرکتی مدرن با بافت تکنولوژی
+5.1 — گرادیان آبی شرکتی با الگوی شش‌ضلعی
+A polished modern corporate banner background, a smooth deep-blue to navy gradient overlaid with a fine subtle hexagonal tech-pattern grid, soft glowing accent lines at hexagon edges, wide 16:9 landscape composition, a calm uncluttered panel at the top reserved for a title, richly detailed yet clean, formal professional engineering aesthetic, no text, no letters, no typography.
+5.2 — پنل شیشه‌ای مدرن با بازتاب نور
+A sleek modern corporate banner background, layered semi-transparent glass-like panels in deep blue and silver tones with soft light reflections, fine subtle grid texture beneath, wide 16:9 landscape composition, an open uncluttered central glass panel reserved for text, richly detailed, elegant, formal engineering-company mood, no text, no letters, no typography.
+5.3 — خط افق شهر با شبکه‌ی داده روی آسمان
+A modern corporate banner background, a stylized dark city skyline silhouette along the bottom under a deep navy sky overlaid with fine glowing data-grid lines and connection points, wide 16:9 landscape composition, a calm uncluttered upper sky area reserved for text, richly detailed, formal tech-utility aesthetic, no text, no letters, no typography.
+5.4 — موج‌های هندسی آبی-طلایی روان
+A refined modern corporate banner background, smooth flowing geometric wave shapes in deep blue and gold sweeping diagonally across a dark field, subtle gradient lighting, wide 16:9 landscape composition, a calm uncluttered lower-right panel reserved for text, richly detailed, elegant, formal professional aesthetic, no text, no letters, no typography.
+5.5 — الگوی مثلثی سه‌بعدی با نور لبه
+A dynamic modern corporate banner background, a field of layered low-poly triangular facets in deep blue and charcoal tones with fine glowing gold edge-lighting, wide 16:9 landscape composition, an open smooth uncluttered central band reserved for text, richly detailed, formal high-tech engineering aesthetic, no text, no letters, no typography.
+5.6 — بافت کربنی صنعتی با خطوط نورانی
+A refined industrial-modern banner background, a fine dark carbon-fiber weave texture overlaid with subtle glowing blue circuit-like accent lines along one edge, wide 16:9 landscape composition, a large calm uncluttered central area reserved for text, richly detailed, formal engineering-company aesthetic, no text, no letters, no typography.
+5.7 — گرادیان فلزی نقره‌ای-آبی با خطوط ظریف
+An elegant modern corporate banner background, a brushed metallic silver-to-blue gradient surface with fine engraved linear accent patterns along the edges, subtle light sheen, wide 16:9 landscape composition, a calm uncluttered panel reserved for text in the lower third, richly detailed, formal professional aesthetic, no text, no letters, no typography.
+5.8 — مدار داده با نقاط درخشان معلق
+A modern tech-corporate banner background, a deep navy field with fine constellation-like glowing data points connected by delicate curved lines, soft depth of field, wide 16:9 landscape composition, an open uncluttered dark area in the center reserved for text, richly detailed, formal engineering aesthetic, no text, no letters, no typography.
+5.9 — لایه‌های شفاف رنگی با گرادیان انرژی
+A vivid modern corporate banner background, overlapping semi-transparent layers of deep blue, teal, and gold light forming a soft gradient energy field, fine subtle particle texture, wide 16:9 landscape composition, a calm uncluttered vertical band on the right reserved for text, richly detailed, elegant, formal utility-company mood, no text, no letters, no typography.
+5.10 — خطوط شبکه‌ی ظریف روی زمینه‌ی تیره‌ی گرم
+A dignified modern corporate banner background, a warm dark charcoal-brown gradient overlaid with a fine subtle geometric grid and soft golden accent glow at intersections, wide 16:9 landscape composition, a large calm uncluttered central panel reserved for text, richly detailed, formal professional engineering aesthetic, no text, no letters, no typography.
+دسته‌ی 6: سند و گواهی رسمی
+6.1 — سند رسمی با مهر و روبان
+A formal certificate-style banner background, a cream and gold color palette resembling an official document, ornate engraved border frame, a subtle embossed wax-seal medallion motif in one corner, delicate ribbon accent along the edge, wide 16:9 landscape composition, a calm smooth central area reserved for text, richly detailed, dignified, formal government-utility aesthetic, no text, no letters, no typography.
+6.2 — بافت کاغذ گواهی با حاشیه‌ی خطی طلایی
+An elegant formal document-style banner background, subtle aged-paper cream texture with a fine engraved gold linear border, delicate corner flourishes, wide 16:9 landscape composition, a large uncluttered central panel kept clean for text, richly detailed, formal official aesthetic, no text, no letters, no typography.
+6.3 — سند تیره با حاشیه طلایی حکاکی‌شده
+A dignified formal certificate-style banner background, deep navy field with an intricately engraved gold border resembling a national document seal, fine linear filigree, wide 16:9 landscape composition, a calm smooth interior area reserved for text, richly detailed, formal government-institution mood, no text, no letters, no typography.
+6.4 — روبان و نشان رسمی در گوشه‌ی قاب
+A formal ceremonial banner background, deep maroon field with an ornate gold ribbon-and-medal motif in one corner, fine engraved border linework, wide 16:9 landscape composition, an open smooth central-right area reserved for text, richly detailed, dignified, formal utility-company aesthetic, no text, no letters, no typography.
+6.5 — بافت پارچه‌ای رسمی با آرم مرکزی خالی
+An elegant formal banner background, deep green fabric-like texture with a subtle woven pattern, an empty ornate gold circular frame in the center reserved for a logo, fine border detailing, wide 16:9 landscape composition, richly detailed, dignified, formal institutional aesthetic, no text, no letters, no typography.
+6.6 — مهر برجسته و حاشیه هندسی رسمی
+A formal document-style banner background, warm ivory field with a fine embossed geometric border pattern and a subtle raised circular seal motif in one corner, wide 16:9 landscape composition, a large smooth central area reserved for text, richly detailed, elegant, formal government-utility aesthetic, no text, no letters, no typography.
+6.7 — قاب رسمی با الگوی موج آبی ملی
+A dignified formal banner background, deep blue field with a fine engraved wave-pattern border evoking a national emblem style, subtle gold accent lines, wide 16:9 landscape composition, a calm open interior reserved for text, richly detailed, formal official aesthetic, no text, no letters, no typography.
+6.8 — بافت چرمی تیره با حاشیه طلاکوب
+An opulent formal banner background, deep brown leather-like texture with a fine gold-embossed decorative border, subtle stitching detail along the edge, wide 16:9 landscape composition, a calm smooth central panel reserved for text, richly detailed, formal executive aesthetic, no text, no letters, no typography.
+6.9 — سند با واترمارک هندسی ظریف
+A refined formal document-style banner background, pale grey-blue field with a very subtle repeating geometric watermark pattern, fine engraved gold border, wide 16:9 landscape composition, a large clean central area reserved for text, richly detailed, formal institutional aesthetic, no text, no letters, no typography.
+6.10 — قاب رسمی با گل‌سرخ‌های طلایی حکاکی‌شده
+A dignified formal banner background, deep burgundy field with a fine engraved gold rosette-and-vine border pattern, delicate floral corner motifs, wide 16:9 landscape composition, a calm smooth interior reserved for text, richly detailed, formal ceremonial aesthetic, no text, no letters, no typography.
+دسته‌ی 7: هشدار و فوریت
+7.1 — راه‌راه زرد-مشکی کلاسیک هشدار برق
+A bold urgent-alert banner background, a dramatic dark charcoal field bordered top and bottom by classic diagonal yellow-and-black electrical hazard stripes, a subtle radial amber glow at the center, wide 16:9 landscape composition, a calm dark uncluttered central area reserved for bold text, richly detailed, formal high-visibility engineering aesthetic, no text, no letters, no typography.
+7.2 — هشدار قرمز با جرقه‌های الکتریکی
+A dramatic urgent-alert banner background, deep black field with fine glowing red and amber electric spark fractals concentrated in one corner, subtle warning-tape texture along the bottom edge, wide 16:9 landscape composition, a calm dark uncluttered central panel reserved for bold text, richly detailed, formal emergency-engineering aesthetic, no text, no letters, no typography.
+7.3 — نشان مثلثی هشدار با پرتو نور
+A striking urgent-alert banner background, dark charcoal field with a large subtle glowing amber triangular hazard-symbol silhouette softly lit in one corner, fine light rays, wide 16:9 landscape composition, an open dark uncluttered area covering most of the frame reserved for text, richly detailed, formal safety-engineering aesthetic, no text, no letters, no typography.
+7.4 — حاشیه راه‌راه با بافت فلزی صنعتی
+A rugged urgent-alert banner background, brushed dark-metal industrial texture framed by bold yellow-and-black diagonal hazard stripes along the edges, subtle scratches and wear detail, wide 16:9 landscape composition, a calm smooth central panel reserved for text, richly detailed, formal industrial-safety aesthetic, no text, no letters, no typography.
+7.5 — رعد و برق هشداردهنده روی زمینه قرمز-مشکی
+A dramatic urgent-alert banner background, a deep red-to-black radial gradient field with a bold glowing amber lightning-bolt silhouette streaking from one corner, fine light fracture details, wide 16:9 landscape composition, a calm dark uncluttered lower area reserved for text, richly detailed, formal emergency-notice aesthetic, no text, no letters, no typography.
+7.6 — نوار هشدار دور تا دور قاب با مرکز تیره
+A commanding urgent-alert banner background, a deep near-black field entirely framed by a thin but bold yellow-and-black hazard-stripe border, subtle vignette lighting toward the edges, wide 16:9 landscape composition, a large calm uncluttered central area reserved for text, richly detailed, formal high-alert engineering aesthetic, no text, no letters, no typography.
+7.7 — هشدار نارنجی با بافت مه دود مانند
+A tense urgent-alert banner background, deep charcoal field with a soft glowing orange-amber haze rising from the bottom edge, subtle atmospheric smoke-like texture, thin hazard-stripe accent along the base, wide 16:9 landscape composition, a calm dark uncluttered upper area reserved for text, richly detailed, formal emergency-engineering mood, no text, no letters, no typography.
+7.8 — نماد جریان برق با رنگ هشدار روی فلز خط‌دار
+A bold urgent-alert banner background, a dark corrugated-metal industrial texture with a glowing amber electric-current icon motif softly lit in one corner, fine hazard-stripe trim along the bottom, wide 16:9 landscape composition, a calm smooth central panel reserved for text, richly detailed, formal industrial-safety aesthetic, no text, no letters, no typography.
+7.9 — پرتو هشدار چرخشی مثل چراغ گردان
+A dramatic urgent-alert banner background, deep black field with a soft rotating-beacon-like amber light glow sweeping from one side, subtle motion-blur light trail, wide 16:9 landscape composition, a calm dark uncluttered central-right area reserved for text, richly detailed, formal emergency-notice aesthetic, no text, no letters, no typography.
+7.10 — هشدار مینیمال با یک خط قرمز باریک
+A restrained but striking urgent-alert banner background, deep charcoal field with a single bold thin red accent line crossing diagonally near one edge, subtle amber glow where it meets the corner, wide 16:9 landscape composition, a large calm uncluttered central area reserved for text, richly detailed yet clean, formal high-alert engineering aesthetic, no text, no letters, no typography.
+دسته‌ی 8: ترکیب معماری ایرانی و مدار الکترونیکی
+8.1 — کاشی‌کاری ایرانی با رگه‌های مدار نورانی
+A striking fusion banner background, traditional Persian blue-and-gold tilework geometric pattern subtly merging into fine glowing circuit-board traces at the edges, deep navy base tone, wide 16:9 landscape composition, a calm uncluttered central panel reserved for text, richly detailed, formal culture-meets-engineering aesthetic, no text, no letters, no typography.
+8.2 — مقرنس با نور آبی مدار
+An intricate fusion banner background, a detailed Persian muqarnas honeycomb-vault pattern rendered in deep stone-grey, subtly illuminated from within by soft glowing electric-blue circuit lines, wide 16:9 landscape composition, a calm smooth central area reserved for text, richly detailed, formal architectural-engineering aesthetic, no text, no letters, no typography.
+8.3 — گنبد اسلیمی با نقشه مدار در پس‌زمینه
+A dramatic fusion banner background, a silhouette of an ornate Persian dome pattern in gold against a deep navy sky filled with fine glowing circuit-diagram constellations, wide 16:9 landscape composition, an open uncluttered sky area reserved for text, richly detailed, elegant, formal cultural-engineering aesthetic, no text, no letters, no typography.
+8.4 — کاشی هفت‌رنگ با گره‌های نورانی برق
+A vivid fusion banner background, traditional Persian haft-rang tile pattern in deep blue, turquoise and gold, softly overlaid with fine glowing amber circuit-node accents at the pattern intersections, wide 16:9 landscape composition, a calm uncluttered central panel reserved for text, richly detailed, formal culture-meets-utility aesthetic, no text, no letters, no typography.
+8.5 — طاق‌نمای ایرانی با درخشش انرژی الکتریکی
+An elegant fusion banner background, an ornate Persian arched niche silhouette in gold against a deep charcoal field, soft glowing blue electric energy radiating from within the arch, wide 16:9 landscape composition, a calm uncluttered lower area reserved for text, richly detailed, formal architectural-energy aesthetic, no text, no letters, no typography.
+8.6 — الگوی هندسی گره‌چینی با مدار پنهان
+A refined fusion banner background, a traditional Persian geometric girih strapwork pattern in deep navy and gold, with faint glowing cyan circuit-lines subtly traced beneath the pattern, wide 16:9 landscape composition, a calm smooth central panel reserved for text, richly detailed, formal cultural-engineering aesthetic, no text, no letters, no typography.
+8.7 — ستون‌های تخت‌جمشیدی با نور مدار مدرن
+A majestic fusion banner background, stylized ancient Persian column silhouettes in warm gold against a deep navy field, softly interwoven with fine glowing modern circuit-line accents, wide 16:9 landscape composition, an open uncluttered central-lower area reserved for text, richly detailed, formal heritage-meets-technology aesthetic, no text, no letters, no typography.
+8.8 — فرش ایرانی به‌عنوان بافت زمینه با گره‌های نورانی
+A rich fusion banner background, a subtle traditional Persian carpet-pattern texture in deep red and gold tones, softly overlaid with fine glowing golden circuit-node accents, wide 16:9 landscape composition, a calm uncluttered central panel reserved for text, richly detailed, formal cultural-engineering aesthetic, no text, no letters, no typography.
+8.9 — پنجره مشبک ایرانی با نور آبی پشت آن
+An elegant fusion banner background, an intricate Persian mashrabiya-style wooden lattice window silhouette in dark bronze, backlit by a soft glowing electric-blue light, wide 16:9 landscape composition, a calm uncluttered lower panel reserved for text, richly detailed, formal architectural-technology aesthetic, no text, no letters, no typography.
+8.10 — خوشنویسی تزئینی انتزاعی (بدون کلمه) با درخشش مدار
+A refined fusion banner background, abstract flowing calligraphic-style gold linework, purely decorative swirls not forming any actual letters or words, over a deep navy field, softly interwoven with fine glowing cyan circuit-line accents, wide 16:9 landscape composition, a calm uncluttered central panel reserved for text, richly detailed, elegant, formal cultural-engineering aesthetic, no text, no letters, no typography, no legible script.
+دسته‌ی 9: هندسی تخت و پرکار (رنگ تخت، الگوی متراکم)
+9.1 — الگوی شش‌ضلعی متراکم آبی-طلایی
+A bold flat-design banner background, a dense tessellated pattern of navy-blue and gold hexagons of varying shades covering the entire field, clean vector style, wide 16:9 landscape composition, a solid-color uncluttered panel in one corner reserved for text, richly detailed yet clean, formal modern engineering aesthetic, no text, no letters, no typography.
+9.2 — نوارهای هندسی زاویه‌دار پرتراکم
+A dynamic flat-design banner background, densely layered angular geometric stripes in deep blue, teal and gold sweeping diagonally across the field, clean bold vector style, wide 16:9 landscape composition, a calm solid-color uncluttered band across the bottom reserved for text, richly detailed, formal modern aesthetic, no text, no letters, no typography.
+9.3 — دایره‌های هم‌پوشان رنگی متراکم
+A vivid flat-design banner background, many overlapping semi-transparent circles in shades of blue, gold and teal densely arranged along one side, clean vector style, wide 16:9 landscape composition, a large solid uncluttered area on the opposite side reserved for text, richly detailed, formal modern aesthetic, no text, no letters, no typography.
+9.4 — الگوی مثلثی رنگارنگ کریستالی
+A striking flat-design banner background, a dense field of small triangular facets in varying shades of blue and gold forming a crystalline low-poly texture, clean vector style, wide 16:9 landscape composition, a calm solid uncluttered panel in the center reserved for text, richly detailed, formal modern engineering aesthetic, no text, no letters, no typography.
+9.5 — الگوی زیگزاگ صنعتی پرتراکم
+A bold flat-design banner background, dense zigzag geometric lines in navy, gold and white forming an energetic repeating pattern across one edge, clean vector style, wide 16:9 landscape composition, a large calm solid uncluttered area reserved for text, richly detailed, formal industrial-modern aesthetic, no text, no letters, no typography.
+9.6 — الگوی دایره متحدالمرکز رنگی چندلایه
+An elegant flat-design banner background, layered concentric circles in deep blue, gold and teal densely arranged in one corner like ripples, clean vector style, wide 16:9 landscape composition, a large calm solid uncluttered area reserved for text, richly detailed, formal modern aesthetic, no text, no letters, no typography.
+9.7 — بافت شبکه‌ی مثلثی سه‌بعدی‌نما
+A refined flat-design banner background, a dense faceted triangular grid pattern in navy and gold with subtle shading suggesting gentle three-dimensional depth, clean vector style, wide 16:9 landscape composition, a calm solid uncluttered band reserved for text, richly detailed, formal modern engineering aesthetic, no text, no letters, no typography.
+9.8 — موج‌های هندسی چندلایه پرتراکم
+A dynamic flat-design banner background, several dense layered wave-shaped bands in deep blue, teal and gold flowing across the bottom of the field, clean vector style, wide 16:9 landscape composition, a calm solid uncluttered upper area reserved for text, richly detailed, formal modern aesthetic, no text, no letters, no typography.
+9.9 — الگوی لوزی متراکم با گرادیان طلایی
+A bold flat-design banner background, a dense repeating diamond tile pattern transitioning from navy blue to gold across the field, clean vector style, wide 16:9 landscape composition, a calm solid uncluttered panel reserved for text, richly detailed, formal modern engineering aesthetic, no text, no letters, no typography.
+9.10 — ترکیب اشکال هندسی آزاد پرتراکم مدرن
+A vivid flat-design banner background, a dense abstract composition of overlapping geometric shapes, circles, triangles and hexagons, in a cohesive navy, teal and gold palette, clean vector style, wide 16:9 landscape composition, a large calm solid uncluttered area reserved for text, richly detailed, formal modern aesthetic, no text, no letters, no typography.
+دسته‌ی 10: شهر شب و شبکه‌ی برق درخشان
+10.1 — افق شهر شبانه با شبکه‌ی برق درخشان
+A dramatic photorealistic banner background, a dark city skyline silhouette at night with countless glowing window lights, overlaid with fine glowing power-grid lines connecting across the sky, deep navy-to-black gradient, wide 16:9 landscape composition, an open uncluttered upper-sky area reserved for text, richly detailed, cinematic, formal utility-company mood, no text, no letters, no typography.
+10.2 — نمای شب شهر از بالا با نورهای طلایی
+A striking aerial photorealistic banner background, a nighttime cityscape viewed from above with warm golden street-light patterns forming a glowing grid, deep dark base tones, wide 16:9 landscape composition, a calm dark uncluttered area in the lower third reserved for text, richly detailed, elegant, formal utility-engineering mood, no text, no letters, no typography.
+10.3 — پل و رودخانه با انعکاس نور شهر
+An atmospheric photorealistic banner background, a city skyline reflected in a calm river at night, subtle glowing power lines crossing a bridge silhouette in the foreground, deep blue-black tones, wide 16:9 landscape composition, an open uncluttered sky area reserved for text, richly detailed, cinematic, formal utility-company mood, no text, no letters, no typography.
+10.4 — منطقه صنعتی شبانه با نورهای آبی-طلایی
+A dramatic photorealistic banner background, an industrial facility skyline at night lit by cool blue and warm gold light sources, faint steam and mist in the air, wide 16:9 landscape composition, a calm dark uncluttered central area reserved for text, richly detailed, formal industrial-engineering mood, no text, no letters, no typography.
+10.5 — برج مخابراتی و شبکه نور شهر
+A moody photorealistic banner background, a tall lattice tower silhouette rising above a glowing city grid at dusk, soft gradient purple-to-navy sky, wide 16:9 landscape composition, a calm gradient sky area near the top reserved for text, richly detailed, elegant, formal utility-engineering mood, no text, no letters, no typography.
+10.6 — خیابان‌های شهر با الگوی نور شبکه از بالا
+A striking aerial photorealistic banner background, a stylized top-down view of city streets glowing like a golden circuit pattern against dark terrain at night, wide 16:9 landscape composition, a calm dark uncluttered corner area reserved for text, richly detailed, formal urban-engineering mood, no text, no letters, no typography.
+10.7 — دکل مخابراتی با نور ستاره‌باران
+A serene photorealistic banner background, a power-line tower silhouetted against a deep clear night sky filled with fine stars and a soft Milky Way glow, wide 16:9 landscape composition, an open uncluttered star-field area reserved for text, richly detailed, elegant, formal utility-company mood, no text, no letters, no typography.
+10.8 — بازتاب شهر در سطح آب با شبکه نور برق
+A tranquil photorealistic banner background, city lights and a distant power-line silhouette reflected on a still dark water surface, soft ripples, wide 16:9 landscape composition, a calm dark uncluttered upper area reserved for text, richly detailed, elegant, formal utility-engineering mood, no text, no letters, no typography.
+10.9 — منظره شهری با مه نورانی آبی
+An atmospheric photorealistic banner background, a distant city skyline glowing softly through a layer of cool blue night mist, faint power-line silhouettes in the foreground, wide 16:9 landscape composition, a calm hazy uncluttered central area reserved for text, richly detailed, formal utility-company mood, no text, no letters, no typography.
+10.10 — نمای گسترده افق شهر با درخشش طلایی غروب به شب
+A cinematic photorealistic banner background, a wide city skyline transitioning from a warm golden sunset glow at the horizon into a deep navy night sky above, fine silhouettes of power infrastructure in the foreground, wide 16:9 landscape composition, a large calm gradient sky area reserved for text, richly detailed, formal utility-company mood, no text, no letters, no typography.

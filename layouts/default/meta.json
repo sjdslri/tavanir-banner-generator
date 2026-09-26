@@ -1,0 +1,21 @@
+{
+  "fields": [
+    { "key": "title", "label": "تیتر اصلی خبر", "type": "text", "default": "اطلاعیه مهم" },
+    { "key": "logo", "label": "لوگو", "type": "image", "default": "" },
+    { "key": "footerText", "label": "متن پاورقی", "type": "text", "default": "روابط عمومی شرکت توانیر" },
+    {
+      "key": "newsItems",
+      "label": "سطرهای خبری",
+      "type": "array",
+      "itemFields": [
+        { "key": "date", "label": "تاریخ", "type": "text" },
+        { "key": "time", "label": "ساعت", "type": "text" },
+        { "key": "text", "label": "متن خبر", "type": "text" }
+      ],
+      "default": [
+        { "date": "۱۴۰۳/۰۵/۰۱", "time": "۱۰:۳۰", "text": "متن خبر اول شما" },
+        { "date": "۱۴۰۳/۰۵/۰۲", "time": "۱۴:۰۰", "text": "متن خبر دوم شما" }
+      ]
+    }
+  ]
+}

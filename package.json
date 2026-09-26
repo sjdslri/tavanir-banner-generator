@@ -1,0 +1,17 @@
+{
+  
+  "name": "tavanir-banner-generator",
+  "version": "4.0.0",
+  "private": true,
+  "description": "ابزار داخلی تولید پوستر/تصویر خبری از روی قالب‌های آماده",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "playwright-core": "^1.48.0"
+  }
+}
